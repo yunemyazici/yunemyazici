@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yunus Emre Yazici
-- 👀 I’m interested in smart contract development
-- 🌱 I’m currently learning Solidity and JavaScript
+- 👀 I’m interested in  AI
+- 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
